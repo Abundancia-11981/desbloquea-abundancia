@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descubre el curso online 'Desbloquea tu Abundancia en 21 Días', diseñado para ayudarte a manifestar prosperidad y trabajar en tu crecimiento personal y espiritual.">
+    <title>Desbloquea tu Abundancia en 21 Días</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(to right, #ffcc70, #ff7a5a);
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            max-width: 1200px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            color: #ff7a5a;
+        }
+        .cta {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .cta a {
+            text-decoration: none;
+            color: #fff;
+            background: #ff7a5a;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background: #ff4e3a;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Desbloquea tu Abundancia en 21 Días</h1>
+        <p>Un programa online para transformar tu vida desde adentro hacia afuera.</p>
+    </header>
+
+    <div class="container">
+        <div class="section">
+            <h2>Descubre el poder que hay en ti</h2>
+            <p>¿Te imaginas vivir una vida llena de oportunidades, bienestar y abundancia? Este curso está diseñado para ayudarte a alinear tu energía con la frecuencia de la prosperidad. Durante 21 días, explorarás tu interior para desbloquear patrones limitantes, fortalecer tu confianza y atraer la vida que siempre soñaste.</p>
+        </div>
+
+        <div class="section">
+            <h2>¿Qué incluye el programa?</h2>
+            <ul>
+                <li><strong>21 días de contenido exclusivo:</strong> Cada día recibirás una lección y ejercicios prácticos diseñados para transformar tu mentalidad.</li>
+                <li><strong>Acceso 100% online:</strong> Aprende a tu ritmo, desde cualquier lugar y en cualquier dispositivo.</li>
+                <li><strong>Guías descargables:</strong> Materiales de apoyo que te acompañarán en tu camino hacia la abundancia.</li>
+                <li><strong>Comunidad de apoyo:</strong> Conéctate con otras personas que comparten tu misma visión y metas.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Lo que lograrás</h2>
+            <p>Al completar este curso, podrás:</p>
+            <ul>
+                <li>Identificar y superar creencias limitantes.</li>
+                <li>Vibrar en una frecuencia que atraiga oportunidades y abundancia.</li>
+                <li>Desarrollar una mentalidad positiva y resiliente.</li>
+                <li>Crear un plan claro y efectivo para manifestar tus sueños.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Testimonios reales</h2>
+            <blockquote>
+                <p>"Este curso fue un antes y un después en mi vida. No solo aprendí a atraer prosperidad, sino también a confiar plenamente en mí misma."</p>
+                <footer>- María López</footer>
+            </blockquote>
+            <blockquote>
+                <p>"Cada lección me permitió descubrir algo nuevo sobre mí. Hoy puedo decir que vivo en abundancia y paz gracias a este programa."</p>
+                <footer>- Juan Pérez</footer>
+            </blockquote>
+        </div>
+
+        <div class="cta">
+            <p><strong>¡Hoy es el día para transformar tu vida!</strong></p>
+            <p>Empieza este emocionante viaje hacia la abundancia y la prosperidad. No necesitas experiencia previa, solo la disposición de abrirte a nuevas posibilidades.</p>
+            <a href="#">Inscríbete ahora</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Desbloquea tu Abundancia. Todos los derechos reservados. Diseñado para inspirarte y motivarte a vivir tu mejor vida.</p>
+    </footer>
+</body>
+</html>
